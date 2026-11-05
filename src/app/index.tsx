@@ -9,7 +9,7 @@ export default function App() {
         <View style={myStyle.container}>
 
             {/*แสดงข้อความ*/}
-            <Text style={myStyle.title}>ตูมตามอ้วน168</Text>
+            <Text style={myStyle.title}>ตูมตามอ้วน168 ทุงทุง</Text>
 
             {/*แสดงภสพจากไฟล์*/}
             <Image
