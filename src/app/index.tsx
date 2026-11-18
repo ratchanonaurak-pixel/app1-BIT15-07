@@ -14,11 +14,11 @@ export default function App() {
       <Text style={styles.nameText}>รัชชานนท์ อุรักษ์</Text>
 
       {/* Text — คำอธิบาย */}
-      <Text style={styles.descText}>แตกกลางยังโดนเท ปัดเป๊ะเหลืออะไร</Text>
+      <Text style={styles.descText}>ทำไมต้องหลอกฟัน</Text>
 
       {/* View — การ์ดข้อมูล */}
       <View style={styles.cardView}>
-        <Text style={styles.cardText}>ห้อง BTI.1/5 เลขที่</Text>
+        <Text style={styles.cardText}>ห้อง BIT.1/5 เลขที่07</Text>
         <Text style={styles.cardText}>Email: ratchanon aurak@e-tech.ac.th</Text>
         <Text style={styles.cardText}>Phone: 0935365737</Text>
       </View>
